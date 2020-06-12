@@ -14,7 +14,7 @@
 <body>
  <!-- color de la barra de navegacion --> 
   <nav class="azul-ast" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="?c=<? php echo base64_encode('Home'); ?>" 
+    <div class="nav-wrapper container"><a id="logo-container" href="?c=<?php echo base64_encode('Home'); ?>" 
     class="brand-logo"><img src="img/logo.png"
     class="responsive-img"></a>
  <!-- menú dispositivos grandes --> 
